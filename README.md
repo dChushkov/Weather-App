@@ -2,12 +2,10 @@
 
 An interactive weather forecast web application for Bulgaria, built with React and TypeScript.
 
-![Weather App Screenshot](https://i.imgur.com/XYZ123.png)
 
 ## 🌟 Demo
 
-- **Live Demo:** [Weather App Bulgaria](https://weather-app-bulgaria.netlify.app)
-- **GitHub Repository:** [dChushkov/Weather-App](https://github.com/dChushkov/Weather-App)
+- **Live Demo:** [Weather App Bulgaria](https://soft-longma-30c815.netlify.app)
 
 ## ✨ Features
 
